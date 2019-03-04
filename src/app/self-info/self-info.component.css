@@ -1,0 +1,10 @@
+div{
+  text-align: left;
+}
+table{
+    text-align: center;
+}
+.selfContainer{
+    max-width: 1000px;
+    margin: 0 auto;
+}
